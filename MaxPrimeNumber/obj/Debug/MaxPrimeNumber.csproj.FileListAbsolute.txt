@@ -1,0 +1,4 @@
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber\bin\Debug\MaxPrimeNumber.dll
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber\bin\Debug\MaxPrimeNumber.pdb
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber\obj\Debug\MaxPrimeNumber.dll
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber\obj\Debug\MaxPrimeNumber.pdb

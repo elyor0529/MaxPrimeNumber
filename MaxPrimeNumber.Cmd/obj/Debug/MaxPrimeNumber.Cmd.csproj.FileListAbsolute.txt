@@ -1,0 +1,8 @@
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\bin\Debug\MaxPrimeNumber.Cmd.exe
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\bin\Debug\MaxPrimeNumber.Cmd.pdb
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\obj\Debug\MaxPrimeNumber.Cmd.csprojResolveAssemblyReference.cache
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\obj\Debug\MaxPrimeNumber.Cmd.exe
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\obj\Debug\MaxPrimeNumber.Cmd.pdb
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\bin\Debug\MaxPrimeNumber.dll
+c:\users\elyor\documents\visual studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\bin\Debug\MaxPrimeNumber.pdb
+C:\Users\elyor\Documents\Visual Studio 2015\Projects\MaxPrimeNumber\MaxPrimeNumber.Cmd\bin\Debug\MaxPrimeNumber.Cmd.exe.config

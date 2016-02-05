@@ -30,3 +30,33 @@
 
 # Debug files
 *.dSYM/
+/MaxPrimeNumber/bin/Debug/MaxPrimeNumber.pdb
+/MaxPrimeNumber/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/MaxPrimeNumber/obj/Debug/MaxPrimeNumber.csproj.FileListAbsolute.txt
+/MaxPrimeNumber/obj/Debug/MaxPrimeNumber.pdb
+/MaxPrimeNumber/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/MaxPrimeNumber/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/MaxPrimeNumber/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/MaxPrimeNumber.Test/bin/Debug/MaxPrimeNumber.Test.dll.config
+/MaxPrimeNumber.Test/bin/Debug/MaxPrimeNumber.Test.pdb
+/MaxPrimeNumber.Test/bin/Debug/MaxPrimeNumber.pdb
+/MaxPrimeNumber.Test/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+/MaxPrimeNumber.Test/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/MaxPrimeNumber.Test/obj/Debug/MaxPrimeNumber.Test.csproj.FileListAbsolute.txt
+/MaxPrimeNumber.Test/obj/Debug/MaxPrimeNumber.Test.csprojResolveAssemblyReference.cache
+/MaxPrimeNumber.Test/obj/Debug/MaxPrimeNumber.Test.pdb
+/MaxPrimeNumber.Test/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/MaxPrimeNumber.Test/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/MaxPrimeNumber.Test/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/MaxPrimeNumber.Cmd/bin/Debug/MaxPrimeNumber.Cmd.exe.config
+/MaxPrimeNumber.Cmd/bin/Debug/MaxPrimeNumber.Cmd.pdb
+/MaxPrimeNumber.Cmd/bin/Debug/MaxPrimeNumber.Cmd.vshost.exe.config
+/MaxPrimeNumber.Cmd/bin/Debug/MaxPrimeNumber.Cmd.vshost.exe.manifest
+/MaxPrimeNumber.Cmd/bin/Debug/MaxPrimeNumber.pdb
+/MaxPrimeNumber.Cmd/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/MaxPrimeNumber.Cmd/obj/Debug/MaxPrimeNumber.Cmd.csproj.FileListAbsolute.txt
+/MaxPrimeNumber.Cmd/obj/Debug/MaxPrimeNumber.Cmd.csprojResolveAssemblyReference.cache
+/MaxPrimeNumber.Cmd/obj/Debug/MaxPrimeNumber.Cmd.pdb
+/MaxPrimeNumber.Cmd/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/MaxPrimeNumber.Cmd/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/MaxPrimeNumber.Cmd/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
